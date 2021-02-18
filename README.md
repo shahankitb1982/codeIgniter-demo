@@ -10,11 +10,11 @@ Includes CRUD operations &amp; API Demo
 ```
 $config['base_url'] = 'http://localhost:8001';
 ```
-3. Set database configuration in `application/config/database.php`
+3. Set database configuration in `application/config/database.php` for `hostname`, `username`, `password`
 
 ```
 $db['default'] = array(
-	'hostname' => '127.0.0.1',
+	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'codeigniter',
