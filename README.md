@@ -1,2 +1,2 @@
 # codeigniter-demo
-Include CRUD operations &amp; API Demo
+Includes CRUD operations &amp; API Demo
